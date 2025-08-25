@@ -25,10 +25,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" /> Contact me </h2> <br> 
     <div align= "center"> <a href=http://www.instagram.com/j__juyeop> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=http://www.instagram.com/j__juyeop"> </a>
          <a href=mailto:sheep06031@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sheep06031@gmail.com"> </a>
-        <a href="https://www.linkedin.com/in/juyeop-kim">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+        <a href="https://www.linkedin.com/in/juyeop-kim"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
